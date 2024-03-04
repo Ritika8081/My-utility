@@ -14,7 +14,7 @@ Once installed, you can import and use the utility functions in your JavaScript 
 
 ```
 
-const { capitalizeFirstLetter, isValidEmail, formatDate } = require('my-utils');
+const { capitalizeFirstLetter, isValidEmail, formatDate } = require('my-utility');
 
 // Capitalize the first letter of a string
 console.log(capitalizeFirstLetter('hello')); // Output: Hello
