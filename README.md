@@ -1,6 +1,6 @@
 # My-utility
-my npm package 
-My Utils is a collection of utility functions designed to streamline common coding tasks. Whether you're working with strings, performing data validation, or formatting dates and times, this package provides handy functions to make your life easier.
+My NPM Package 
+( My Utility ) is a collection of utility functions designed to streamline common coding tasks. Whether you're working with strings, performing data validation, or formatting dates and times, this package provides handy functions to make your life easier.
 
 ## Installation
 
