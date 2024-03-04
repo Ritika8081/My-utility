@@ -7,7 +7,7 @@ My NPM Package
 You can install My Utils via npm:
 
 ```bash
-npm install my-utils
+npm i my-utility
 ```
 Usage
 Once installed, you can import and use the utility functions in your JavaScript projects:
