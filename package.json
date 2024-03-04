@@ -1,0 +1,21 @@
+{
+  "name": "my-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritika8081/My-utility.git"
+  },
+  "keywords": ["utility", "helpers", "string", "validation", "date", "time"],
+  
+  "author": "Ritika Mishra",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Ritika8081/My-utility/issues"
+  },
+  "homepage": "https://github.com/Ritika8081/My-utility#readme"
+}
