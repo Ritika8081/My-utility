@@ -1,6 +1,7 @@
 # My-utility
 My NPM Package 
-( My Utility ) is a collection of utility functions designed to streamline common coding tasks. Whether you're working with strings, performing data validation, or formatting dates and times, this package provides handy functions to make your life easier.
+**My Utility** is a collection of utility functions designed to streamline common coding tasks. Whether you're working with strings, performing data validation, or formatting dates and times, this package provides handy functions to make your life easier.
+
 
 ## Installation
 
@@ -55,17 +56,15 @@ const randomInt = getRandomInt(1, 100);
 ```
  ## Features
 
-capitalizeFirstLetter(string)
+ `capitalizeFirstLetter`: Capitalizes the first letter of a string.
+- `isValidEmail`: Checks if a string is a valid email address.
+- `formatDate`: Formats a Date object as "YYYY-MM-DD".
+- `generateRandomString`: Generates a random alphanumeric string of a specified length.
+- `isValidUrl`: Checks if a string is a valid URL.
+- `shuffleArray`: Shuffles the elements of an array.
+- `factorial`: Calculates the factorial of a number.
+- `getRandomInt`: Generates a random integer within a specified range.
 
-Capitalizes the first letter of a string.
-
-isValidEmail(email)
-
-Checks if a string is a valid email address.
-
-formatDate(date)
-
-Formats a Date object as "YYYY-MM-DD".
 
 ## How It Helps
 
