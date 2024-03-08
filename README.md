@@ -14,18 +14,43 @@ Once installed, you can import and use the utility functions in your JavaScript 
 
 ```
 
-const { capitalizeFirstLetter, isValidEmail, formatDate } = require('my-utility');
+const {
+  capitalizeFirstLetter,
+  isValidEmail,
+  formatDate,
+  generateRandomString,
+  isValidUrl,
+  shuffleArray,
+  factorial,
+  getRandomInt
+} = require('your-package-name');
+
+// Example usage of the functions
 
 // Capitalize the first letter of a string
-console.log(capitalizeFirstLetter('hello')); // Output: Hello
+const capitalizedString = capitalizeFirstLetter('hello');
 
 // Check if an email address is valid
-const email = 'test@example.com';
-console.log(isValidEmail(email)); // Output: true
+const isValid = isValidEmail('test@example.com');
 
-// Format the current date as "YYYY-MM-DD"
-const today = new Date();
-console.log(formatDate(today)); // Output: "2024-03-04"
+// Format the current date
+const formattedDate = formatDate(new Date());
+
+// Generate a random alphanumeric string of length 10
+const randomString = generateRandomString(10);
+
+// Check if a URL is valid
+const isValidURL = isValidUrl('https://example.com');
+
+// Shuffle an array
+const shuffledArray = shuffleArray([1, 2, 3, 4, 5]);
+
+// Calculate the factorial of 5
+const factorialValue = factorial(5);
+
+// Generate a random integer between 1 and 100
+const randomInt = getRandomInt(1, 100);
+
 
 ```
  ## Features
