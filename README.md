@@ -68,13 +68,12 @@ const randomInt = getRandomInt(1, 100);
 
 ## How It Helps
 
- ## Saves Time:
-
-Instead of writing these utility functions from scratch, you can simply install My Utils and start using them immediately, saving you time and effort.
-Improves Code Quality: By using standardized utility functions, you can ensure consistency across your codebase and reduce the likelihood of errors.
-Enhances Readability: The descriptive function names and clear documentation make it easy for you and your team to understand and use these utilities effectively.
+`Saves Time:` Instead of writing these utility functions from scratch, you can simply install My Utils and start using them immediately, saving you time and effort.
+`Improves Code Quality:` By using standardized utility functions, you can ensure consistency across your codebase and reduce the likelihood of errors.
+`Enhances Readability:` The descriptive function names and clear documentation make it easy for you and your team to understand and use these utilities effectively.
 Contribution
-Contributions are welcome! If you have ideas for additional utility functions or improvements to existing ones, please open an issue or submit a pull request on GitHub.
+
+`Contributions are welcome! If you have ideas for additional utility functions or improvements to existing ones, please open an issue or submit a pull request on GitHub.`
 
 ## License
 This package is licensed under the MIT License. See the LICENSE file for details.
